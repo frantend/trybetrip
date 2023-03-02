@@ -4,9 +4,9 @@
 
 Neste projeto, desenvolvi um formulário para que as pessoas possam se inscrever e concorrer a uma viagem. O formulário já tinha sido criado por outras pessoas do meu time e minha responsabilidade foi adicionar um framework de estilos para deixar o site mais bonito.
 
-Projeto referente ao bloco HTML e CSS (Forms, Flexbox, Responsivo) do módulo de fundamentos da Trybe [https://www.betrybe.com/].
+Projeto referente ao bloco HTML e CSS (Forms, Flexbox, Responsivo) do módulo de fundamentos da Trybe https://www.betrybe.com/.
 
-O resultado da aplicação pode ser acessado através da seguinte URL: [https://frantend.github.io/trybetrip].
+O resultado da aplicação pode ser acessado através da seguinte URL: https://frantend.github.io/trybetrip.
 
 
 ## 🎨 Layout
